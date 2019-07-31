@@ -5,6 +5,7 @@
   "main": "bin/index.js",
   "scripts": {
     "build": "nwp",
+    "build-all": "nwp -p win32,win64,osx64,linux32,linux64",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
