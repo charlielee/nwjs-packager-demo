@@ -17,5 +17,10 @@
   "bugs": {
     "url": "https://github.com/charlielee/nwjs-packager-demo/issues"
   },
-  "homepage": "https://github.com/charlielee/nwjs-packager-demo#readme"
+  "homepage": "https://github.com/charlielee/nwjs-packager-demo#readme",
+  "nwjs-packager": {
+    "appFriendlyName": "Demo App",
+    "appMacIcon": "bin/icon.icns",
+    "appWinIcon": "bin/icon.ico"
+  }
 }
