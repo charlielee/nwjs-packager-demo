@@ -22,6 +22,11 @@
     "appFriendlyName": "Demo App",
     "appMacIcon": "bin/icon.icns",
     "appWinIcon": "bin/icon.ico",
-    "files": ["bin/**"]
+    "files": ["bin/**"],
+    "builds": {
+      "linux": {"tar.gz": true},
+      "osx": {"zip": true},
+      "win": {"zip": true}
+    }
   }
 }
