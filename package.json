@@ -1,6 +1,5 @@
 {
   "name": "nwjs-packager-demo",
-  "product_string": "NW.js Packager Demo",
   "version": "0.1.0",
   "description": "An application used to test nwjs-packager",
   "main": "bin/index.js",
