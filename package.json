@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/charlielee/nwjs-packager-demo#readme",
   "nwjs-packager": {
+    "nwVersion": "v0.45.4",
     "appFriendlyName": "Demo App",
     "appMacIcon": "bin/icon.icns",
     "appWinIcon": "bin/icon.ico",
