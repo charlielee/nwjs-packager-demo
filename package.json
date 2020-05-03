@@ -1,6 +1,6 @@
 {
   "name": "nwjs-packager-demo",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An application used to test nwjs-packager",
   "main": "bin/index.js",
   "scripts": {
