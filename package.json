@@ -23,6 +23,7 @@
     "nwFlavor": "sdk",
     "appFriendlyName": "Demo App",
     "appMacIcon": "bin/icon.icns",
+    "appMacBundleIdentifier": "uk.charlielee.nwjs-packager-demo",
     "appWinIcon": "bin/icon.ico",
     "files": ["bin/**"],
     "builds": {
